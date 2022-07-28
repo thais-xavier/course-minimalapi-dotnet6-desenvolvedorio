@@ -1,0 +1,1 @@
+# course-minimalapi-dotnet6-desenvolvedorio
